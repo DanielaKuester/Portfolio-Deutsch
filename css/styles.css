@@ -41,8 +41,10 @@ span {
 	min-width: 400px;
 }
 
-.mf1, .mf2, .adresse {
+.mf1, .mf2, .impressum-adresse, .impressum-kontakt {
 	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 .strong {
